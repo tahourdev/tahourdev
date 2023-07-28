@@ -17,10 +17,10 @@
 <br/>
 
     
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahourdev&show_icons=true&locale=en&layout=compact" alt="tahourdev" /></p><br/>
- 
-    
-<img src="https://github-readme-stats.vercel.app/api?username=tahourdev&show_icons=true&locale=en" alt="tahourdev" />
+
+<img src = "https://github-readme-stats.vercel.app/api?username=tahourdev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahourdev)](https://github.com/tahourdev/github-readme-stats)
  
 
 
