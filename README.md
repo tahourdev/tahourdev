@@ -4,19 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahourdev&label=Profile%20views&color=0e75b6&style=flat" alt="tahourdev"/> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot**
-
-- 💬 Ask me about **react, javascript, java, tailwindcss, sass**
-
-- 📫 How to reach me **enghourheng26@gmail.com**
+- 🔭 I’m currently working on ...HTML, CSS, JavaScript, jQuery, Tailwind, Bootstrap & Sass
+- 🌱 I’m currently learning ... Java Programming Language
+- 👯 I’m looking to collaborate on ...Frontend Development
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... HTML, CSS, JS, Bootstrap, and SASS
+- 📫 How to reach me: enghourheng26@gmail.com
+- 😄 Pronouns: ... HEHE
+- ⚡ Fun fact: ... I Love Classic Novels
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
-    
 
 <img src = "https://github-readme-stats.vercel.app/api?username=tahourdev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
